@@ -1,6 +1,11 @@
-# example_app
+# Flutter UI
 
-A new Flutter application.
+Flutter Sign in and Sign up UI.
+
+#Screen Shots
+
+![Speed Code (1)](https://user-images.githubusercontent.com/64004539/115614949-f11b5480-a30b-11eb-95ee-f4e20c3e8a0d.png)
+
 
 ## Getting Started
 
